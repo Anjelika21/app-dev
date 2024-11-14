@@ -25,8 +25,6 @@ My first repository.
    - The series has over 100 volumes and counting.
    - The series features unique fruits called Devil Fruits that grant superhuman powers to those who eat them.
    - The anime adaptation began airing in 1999 and is produced by Toei Animation.
-   - 
-[One Piece Wiki](hhttps://onepiece.fandom.com/wiki/One_Piece_Wiki)
-
+  
 ### *One Piece captivates you with its rich storytelling, vibrant characters, and epic adventures that keep you hooked. The themes of friendship, freedom, and the relentless pursuit of dreams resonate deeply, making it an unforgettable journey.*
 
